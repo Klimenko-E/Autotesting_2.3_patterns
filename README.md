@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wmop7fuvcrb0j48x?svg=true)](https://ci.appveyor.com/project/Klimenko-E/autotesting-2-3-patterns)
